@@ -1,0 +1,5 @@
+C:\Users\SN51514\documents\visual studio 2010\Projects\DamageMitigation\DamageMitigation\bin\Release\DamageMitigation.dll
+C:\Users\SN51514\documents\visual studio 2010\Projects\DamageMitigation\DamageMitigation\bin\Release\DamageMitigation.pdb
+C:\Users\SN51514\documents\visual studio 2010\Projects\DamageMitigation\DamageMitigation\obj\Release\ResolveAssemblyReference.cache
+C:\Users\SN51514\documents\visual studio 2010\Projects\DamageMitigation\DamageMitigation\obj\Release\DamageMitigation.dll
+C:\Users\SN51514\documents\visual studio 2010\Projects\DamageMitigation\DamageMitigation\obj\Release\DamageMitigation.pdb

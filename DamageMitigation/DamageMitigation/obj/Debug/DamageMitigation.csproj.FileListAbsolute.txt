@@ -1,0 +1,10 @@
+c:\users\sn51514\documents\visual studio 2010\Projects\DamageMitigation\DamageMitigation\bin\Debug\DamageMitigation.dll
+c:\users\sn51514\documents\visual studio 2010\Projects\DamageMitigation\DamageMitigation\bin\Debug\DamageMitigation.pdb
+c:\users\sn51514\documents\visual studio 2010\Projects\DamageMitigation\DamageMitigation\obj\Debug\ResolveAssemblyReference.cache
+c:\users\sn51514\documents\visual studio 2010\Projects\DamageMitigation\DamageMitigation\obj\Debug\DamageMitigation.dll
+c:\users\sn51514\documents\visual studio 2010\Projects\DamageMitigation\DamageMitigation\obj\Debug\DamageMitigation.pdb
+C:\Users\SN51514\git\D3_Calculator\DamageMitigation\DamageMitigation\bin\Debug\DamageMitigation.dll
+C:\Users\SN51514\git\D3_Calculator\DamageMitigation\DamageMitigation\bin\Debug\DamageMitigation.pdb
+C:\Users\SN51514\git\D3_Calculator\DamageMitigation\DamageMitigation\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\SN51514\git\D3_Calculator\DamageMitigation\DamageMitigation\obj\Debug\DamageMitigation.dll
+C:\Users\SN51514\git\D3_Calculator\DamageMitigation\DamageMitigation\obj\Debug\DamageMitigation.pdb

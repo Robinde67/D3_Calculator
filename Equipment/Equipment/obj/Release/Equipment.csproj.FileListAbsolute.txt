@@ -1,0 +1,5 @@
+C:\Users\SN51514\documents\visual studio 2010\Projects\Equipment\Equipment\bin\Release\Equipment.dll
+C:\Users\SN51514\documents\visual studio 2010\Projects\Equipment\Equipment\bin\Release\Equipment.pdb
+C:\Users\SN51514\documents\visual studio 2010\Projects\Equipment\Equipment\obj\Release\ResolveAssemblyReference.cache
+C:\Users\SN51514\documents\visual studio 2010\Projects\Equipment\Equipment\obj\Release\Equipment.dll
+C:\Users\SN51514\documents\visual studio 2010\Projects\Equipment\Equipment\obj\Release\Equipment.pdb

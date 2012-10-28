@@ -1,0 +1,18 @@
+C:\Users\SN51514\Documents\Visual Studio 2010\Projects\Stats\Stats\bin\Debug\Damage.dll
+C:\Users\SN51514\Documents\Visual Studio 2010\Projects\Stats\Stats\bin\Debug\Equipment.dll
+C:\Users\SN51514\Documents\Visual Studio 2010\Projects\Stats\Stats\bin\Debug\Damage.pdb
+C:\Users\SN51514\Documents\Visual Studio 2010\Projects\Stats\Stats\bin\Debug\Equipment.pdb
+C:\Users\SN51514\Documents\Visual Studio 2010\Projects\Stats\Stats\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\SN51514\Documents\Visual Studio 2010\Projects\Stats\Stats\bin\Debug\Stats.dll
+C:\Users\SN51514\Documents\Visual Studio 2010\Projects\Stats\Stats\bin\Debug\Stats.pdb
+C:\Users\SN51514\Documents\Visual Studio 2010\Projects\Stats\Stats\obj\Debug\Stats.dll
+C:\Users\SN51514\Documents\Visual Studio 2010\Projects\Stats\Stats\obj\Debug\Stats.pdb
+C:\Users\SN51514\git\D3_Calculator\Stats\Stats\bin\Debug\Stats.dll
+C:\Users\SN51514\git\D3_Calculator\Stats\Stats\bin\Debug\Stats.pdb
+C:\Users\SN51514\git\D3_Calculator\Stats\Stats\bin\Debug\Damage.dll
+C:\Users\SN51514\git\D3_Calculator\Stats\Stats\bin\Debug\Equipment.dll
+C:\Users\SN51514\git\D3_Calculator\Stats\Stats\bin\Debug\Damage.pdb
+C:\Users\SN51514\git\D3_Calculator\Stats\Stats\bin\Debug\Equipment.pdb
+C:\Users\SN51514\git\D3_Calculator\Stats\Stats\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\SN51514\git\D3_Calculator\Stats\Stats\obj\Debug\Stats.dll
+C:\Users\SN51514\git\D3_Calculator\Stats\Stats\obj\Debug\Stats.pdb

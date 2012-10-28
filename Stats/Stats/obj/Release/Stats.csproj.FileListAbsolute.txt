@@ -1,0 +1,9 @@
+C:\Users\SN51514\documents\visual studio 2010\Projects\Stats\Stats\bin\Release\Stats.dll
+C:\Users\SN51514\documents\visual studio 2010\Projects\Stats\Stats\bin\Release\Stats.pdb
+C:\Users\SN51514\documents\visual studio 2010\Projects\Stats\Stats\bin\Release\Damage.dll
+C:\Users\SN51514\documents\visual studio 2010\Projects\Stats\Stats\bin\Release\Equipment.dll
+C:\Users\SN51514\documents\visual studio 2010\Projects\Stats\Stats\bin\Release\Damage.pdb
+C:\Users\SN51514\documents\visual studio 2010\Projects\Stats\Stats\bin\Release\Equipment.pdb
+C:\Users\SN51514\documents\visual studio 2010\Projects\Stats\Stats\obj\Release\ResolveAssemblyReference.cache
+C:\Users\SN51514\documents\visual studio 2010\Projects\Stats\Stats\obj\Release\Stats.dll
+C:\Users\SN51514\documents\visual studio 2010\Projects\Stats\Stats\obj\Release\Stats.pdb

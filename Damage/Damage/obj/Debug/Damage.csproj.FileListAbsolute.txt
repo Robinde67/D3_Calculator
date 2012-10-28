@@ -1,0 +1,10 @@
+C:\Users\SN51514\Documents\Visual Studio 2010\Projects\Damage\Damage\bin\Debug\Damage.dll
+C:\Users\SN51514\Documents\Visual Studio 2010\Projects\Damage\Damage\bin\Debug\Damage.pdb
+C:\Users\SN51514\Documents\Visual Studio 2010\Projects\Damage\Damage\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\SN51514\Documents\Visual Studio 2010\Projects\Damage\Damage\obj\Debug\Damage.dll
+C:\Users\SN51514\Documents\Visual Studio 2010\Projects\Damage\Damage\obj\Debug\Damage.pdb
+C:\Users\SN51514\git\D3_Calculator\Damage\Damage\bin\Debug\Damage.dll
+C:\Users\SN51514\git\D3_Calculator\Damage\Damage\bin\Debug\Damage.pdb
+C:\Users\SN51514\git\D3_Calculator\Damage\Damage\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\SN51514\git\D3_Calculator\Damage\Damage\obj\Debug\Damage.dll
+C:\Users\SN51514\git\D3_Calculator\Damage\Damage\obj\Debug\Damage.pdb

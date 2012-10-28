@@ -1,0 +1,25 @@
+c:\users\sn51514\documents\visual studio 2010\Projects\D3 Kalkylator\D3 Kalkylator\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\sn51514\documents\visual studio 2010\Projects\D3 Kalkylator\D3 Kalkylator\obj\x86\Debug\D3_Kalkylator.Properties.Resources.resources
+c:\users\sn51514\documents\visual studio 2010\Projects\D3 Kalkylator\D3 Kalkylator\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\sn51514\documents\visual studio 2010\Projects\D3 Kalkylator\D3 Kalkylator\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\SN51514\documents\visual studio 2010\Projects\D3 Kalkylator\D3 Kalkylator\bin\Debug\Damage.dll
+C:\Users\SN51514\documents\visual studio 2010\Projects\D3 Kalkylator\D3 Kalkylator\bin\Debug\DamageMitigation.dll
+C:\Users\SN51514\documents\visual studio 2010\Projects\D3 Kalkylator\D3 Kalkylator\bin\Debug\DamageMitigation.pdb
+C:\Users\SN51514\documents\visual studio 2010\Projects\D3 Kalkylator\D3 Kalkylator\bin\Debug\Damage.pdb
+C:\Users\SN51514\Documents\Visual Studio 2010\Projects\D3 Kalkylator\D3 Kalkylator\bin\Debug\Equipment.dll
+C:\Users\SN51514\Documents\Visual Studio 2010\Projects\D3 Kalkylator\D3 Kalkylator\bin\Debug\Stats.dll
+C:\Users\SN51514\Documents\Visual Studio 2010\Projects\D3 Kalkylator\D3 Kalkylator\bin\Debug\Equipment.pdb
+C:\Users\SN51514\Documents\Visual Studio 2010\Projects\D3 Kalkylator\D3 Kalkylator\bin\Debug\Stats.pdb
+C:\Users\SN51514\documents\visual studio 2010\Projects\D3 Kalkylator\D3 Kalkylator\obj\x86\Debug\D3_Kalkylator.MainForm.resources
+C:\Users\SN51514\documents\visual studio 2010\Projects\D3 Kalkylator\D3 Kalkylator\obj\x86\Debug\D3_Kalkylator.EquipmentForm.resources
+C:\Users\SN51514\Documents\Visual Studio 2010\Projects\D3 Kalkylator\D3 Kalkylator\bin\Debug\D3 Calculator.exe.manifest
+C:\Users\SN51514\Documents\Visual Studio 2010\Projects\D3 Kalkylator\D3 Kalkylator\bin\Debug\D3 Calculator.application
+C:\Users\SN51514\Documents\Visual Studio 2010\Projects\D3 Kalkylator\D3 Kalkylator\bin\Debug\D3 Calculator.exe
+C:\Users\SN51514\Documents\Visual Studio 2010\Projects\D3 Kalkylator\D3 Kalkylator\bin\Debug\D3 Calculator.pdb
+C:\Users\SN51514\Documents\Visual Studio 2010\Projects\D3 Kalkylator\D3 Kalkylator\obj\x86\Debug\D3 Calculator.exe.manifest
+C:\Users\SN51514\Documents\Visual Studio 2010\Projects\D3 Kalkylator\D3 Kalkylator\obj\x86\Debug\D3 Calculator.application
+C:\Users\SN51514\Documents\Visual Studio 2010\Projects\D3 Kalkylator\D3 Kalkylator\obj\x86\Debug\D3 Calculator.exe
+C:\Users\SN51514\Documents\Visual Studio 2010\Projects\D3 Kalkylator\D3 Kalkylator\obj\x86\Debug\D3 Calculator.pdb
+C:\Users\SN51514\Documents\Visual Studio 2010\Projects\D3 Kalkylator\D3 Kalkylator\obj\x86\Debug\D3_Kalkylator.Legal.resources
+C:\Users\SN51514\Documents\Visual Studio 2010\Projects\D3 Kalkylator\D3 Kalkylator\obj\x86\Debug\D3_Kalkylator.AbilitiesForm.resources
+C:\Users\SN51514\documents\visual studio 2010\Projects\D3 Kalkylator\D3 Kalkylator\obj\x86\Debug\D3 Calculator.TrustInfo.xml

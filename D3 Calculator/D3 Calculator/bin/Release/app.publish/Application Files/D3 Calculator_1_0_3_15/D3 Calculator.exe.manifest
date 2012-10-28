@@ -1,0 +1,1227 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly manifestVersion="1.0" xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1">
+  <asmv1:assemblyIdentity version="1.0.3.15" name="D3 Calculator.exe" publicKeyToken="b0b994cf02b66e96" language="en" processorArchitecture="x86" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="D3 Calculator" version="1.0.3.8419" language="neutral" processorArchitecture="x86" />
+    <commandLine file="D3 Calculator.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet version="1" class="System.Security.NamedPermissionSet" Name="LocalIntranet" Description="Default rights given to applications on the local intranet" Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!-- UAC Manifest Options
+            If you want to change the Windows User Account Control level replace the 
+            requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+            Specifying requestedExecutionLevel node will disable file and registry virtualization.
+            If you want to utilize File and Registry Virtualization for backward 
+            compatibility then delete the requestedExecutionLevel node.
+        -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="D3 Calculator.exe" size="2478592">
+      <assemblyIdentity name="D3 Calculator" version="1.0.3.8419" language="neutral" processorArchitecture="x86" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>kroU00UofPc3VKKcfUkthjqRcTo=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Damage.dll" size="4608">
+      <assemblyIdentity name="Damage" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>fCB1BVYvPM2KhFpaHXxgFzh+Hfs=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="DamageMitigation.dll" size="4608">
+      <assemblyIdentity name="DamageMitigation" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>iUvXYN6Lihnv8600kHbLtGUPdiY=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Equipment.dll" size="9728">
+      <assemblyIdentity name="Equipment" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>wN/NN+jJGjQhfFvNYteMmTGnyc0=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Stats.dll" size="7680">
+      <assemblyIdentity name="Stats" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>PcaDA6jjlNC0gTaGAHUhjdEo6+w=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Resources\Abilities\Barbarian\Ancient_Spear.jpg" size="13128">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>NzfUGl89lBS/Dx5huZ8U/9Q1o6k=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Abilities\Barbarian\Bash.jpg" size="12943">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>zcj9JvQo+h5eM83RjewcewFAJ/c=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Abilities\Barbarian\Battle_Rage.jpg" size="18696">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>cFvE5JOYCSrihN7FwjVF5kUYS5c=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Abilities\Barbarian\Call_of_the_Ancients.jpg" size="13076">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>eGzd6bZO8+LbH36sXZ5xc8lO4TQ=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Abilities\Barbarian\Cleave.jpg" size="19471">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>Y0VkKvsyqf+CrkATn1nT2SjYObM=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Abilities\Barbarian\Earthquake.jpg" size="12787">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>/Lr2wWWkKlAq4y59BvVfFi6yQhU=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Abilities\Barbarian\Frenzy.jpg" size="19067">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>4CXPM/gUE7Yfr7oflYU0rQO0R5E=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Abilities\Barbarian\Furious_Charge.jpg" size="19169">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>2Lr2nYQqOSOb5zaqC1rzgQLMF8g=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Abilities\Barbarian\Ground_Stomp.jpg" size="12662">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>r9GN5tkOSDkAWD2nkOWAe5rIkCI=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Abilities\Barbarian\Hammer_of_the_Ancients.jpg" size="12880">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>3/WGx/2aDwnGfIVVp15sqgk3viY=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Abilities\Barbarian\Ignore_Pain.jpg" size="18918">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>+uTr184cLb0fLBBBuuaYguzJ60Q=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Abilities\Barbarian\Leap.jpg" size="12772">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>XrMBuzIfm76+GqQl3yWJdH13vPE=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Abilities\Barbarian\Overpower.jpg" size="12956">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>NqJa+PlyuhXUNGfIIdo8uI4rJLE=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Abilities\Barbarian\Rend.jpg" size="13127">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>bO2qmCNJhdNSgvJmBh2GAyJUg+0=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Abilities\Barbarian\Revenge.jpg" size="12836">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>6NcfJqG2/lpA0c5+rUiS4qDZVdo=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Abilities\Barbarian\Seismic_Slam.jpg" size="12677">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>EtjTuWe95sldvfV2DPHoWp1aSUs=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Abilities\Barbarian\Sprint.jpg" size="12607">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>NNuXkNcILqN5csxE0do4gQ3mAnc=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Abilities\Barbarian\Threatening_Shout.jpg" size="12479">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>bmSNkeg5AUrrZg1ZIfZkSm+0yxA=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Abilities\Barbarian\War_Cry.jpg" size="12878">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>IBojSJHKWfjsePQbLsqZANRT5S4=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Abilities\Barbarian\Weapon_Throw.jpg" size="12571">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>yvDU93Pmi7+VRlAMPb9ihCDkO64=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Abilities\Barbarian\Whirlwind.jpg" size="12921">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>zBo0vI2Qm2fLndpUUNnpw6hynwo=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Abilities\Barbarian\Wrath_of_the_Berserker.jpg" size="12659">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>xlQdslLzkIr0V5OlXSIsrjc5ACg=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Abilities\Demon_Hunter\Bola_Shot.jpg" size="13226">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>j+icJj1XoprI4Bz0mWNarNbkqhA=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Abilities\Demon_Hunter\Caltrops.jpg" size="12474">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>jIuyNKez4zzeTjH00aSSx2/NWOM=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Abilities\Demon_Hunter\Chakram.jpg" size="12776">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>+PSSS5XprEKzHSAtszvfMHIPkt0=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Abilities\Demon_Hunter\Cluster_Arrow.jpg" size="19198">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>/5rQ1NwR0HUi6Z4tKv1zuYX6yz4=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Abilities\Demon_Hunter\Companion.jpg" size="12452">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>WY/skyAhgAXyYlznnnC5/JjXxEU=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Abilities\Demon_Hunter\Elemental_Arrow.jpg" size="13107">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>hiJXqgyQTeF5WZIa2JAkJFxhMt4=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Abilities\Demon_Hunter\Entangling_Shot.jpg" size="13176">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>P3+1K0eu97G303t86+8kKJ0uLtE=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Abilities\Demon_Hunter\Evasive_Fire.jpg" size="13122">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>hEqPI6yJhcMZgGazmyD1ijdej2A=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Abilities\Demon_Hunter\Fan_of_Knives.jpg" size="12991">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>UeH7vL3impm7kpHuXS/CSYZ7jmM=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Abilities\Demon_Hunter\Grenades.jpg" size="13078">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>AiTZ10yR7pRO7LezvngWVU3d9jU=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Abilities\Demon_Hunter\Hungering_Arrow.jpg" size="13257">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>n46ecX+e63DG81NUKxV6KSoVYUk=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Abilities\Demon_Hunter\Impale.jpg" size="12965">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>mncVnxQc4GsB0MPXvf27517BP6s=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Abilities\Demon_Hunter\Marked_for_Death.jpg" size="12778">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>XdnY0NqYd01IJXwtW2hSeVjYrgs=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Abilities\Demon_Hunter\Multishot.jpg" size="13225">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>oi1G4jERSGS2BJi47Owy6ygZ5xE=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Abilities\Demon_Hunter\Preparation.jpg" size="19121">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>bPuyAtsBZhHeOHl17uvwg2SQBXI=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Abilities\Demon_Hunter\Rain_of_Vengeance.jpg" size="13018">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>Tlq06SxU748Cpcvk/+VlPEQHsGA=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Abilities\Demon_Hunter\Rapid_Fire.jpg" size="18867">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>A1x23ST8Yhe4aAnQVSRegPchM7Q=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Abilities\Demon_Hunter\Sentry.jpg" size="12498">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>oIZLRcvQXXGqpR3aFYzfDuwfad8=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Abilities\Demon_Hunter\Shadow_Power.jpg" size="12423">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>lv3nws8QofzLt2/2bLwPOd3cnrk=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Abilities\Demon_Hunter\Smoke_Screen.jpg" size="12300">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>elY+c2jO5tNtNI0tbGdE6RjVk8w=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Abilities\Demon_Hunter\Spike_Trap.jpg" size="12642">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>bve5nOxKM7lvDwcJO2rFC7SyfQ0=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Abilities\Demon_Hunter\Strafe.jpg" size="19319">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>5fe4PPPvc3KMQHneebcNL1WhE4o=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Abilities\Demon_Hunter\Vault.jpg" size="12660">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>jQh/RZfDjD5lCmZk4w5DpTsu9IE=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Abilities\Monk\Blinding_Flash.jpg" size="13167">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>kIW/FvrILlljcy+c6GW7DStM1/I=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Abilities\Monk\Breath_of_Heaven.jpg" size="12710">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>1ph9y+e0PVFEDDApwHrR7KGkOsc=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Abilities\Monk\Crippling_Wave.jpg" size="19584">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>DVihJ5piCe4ymi0XGAbtgLLxpos=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Abilities\Monk\Cyclone_Strike.jpg" size="13042">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>S4NQINaOqTbr7XEFoYytG324WOU=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Abilities\Monk\Dashing_Strike.jpg" size="13194">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>lp03Q1iHfvf/OCfgYGnzS4+d40E=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Abilities\Monk\Deadly_Reach.jpg" size="13113">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>ogbqKG01I4nvSSJ3cKDztSzAZ5c=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Abilities\Monk\Exploding_Palm.jpg" size="13211">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>PpuC7DwzZb4E7My1axmy+6ck72g=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Abilities\Monk\Fists_of_Thunder.jpg" size="13622">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>Gnr6ns+vwqJAD5UMWia6Rzc7v2k=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Abilities\Monk\Inner_Sanctuary.jpg" size="12898">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>xDQ0ye+7xOo3YmpjP46wOhUswBk=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Abilities\Monk\Lashing_Tail_Kick.jpg" size="13096">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>XMGHnMfVDVyr35ukMmX19Yxoxwk=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Abilities\Monk\Mantra_of_Conviction.jpg" size="13392">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>KgddCP3Lq1bUaZBJVW7SBM28d9I=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Abilities\Monk\Mantra_of_Evasion.jpg" size="13432">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>nsIy78TrxcOr3A1CWRTwleGHzVw=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Abilities\Monk\Mantra_of_Healing.jpg" size="12955">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>GFnsagadYAWm3IvkMPQBNXF3HKk=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Abilities\Monk\Mantra_of_Retribution.jpg" size="13144">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>g6tb+TeyMEhBLJZCMoY/kgphH9g=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Abilities\Monk\Mystic_Ally.jpg" size="13250">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>g77CBzWs91Q4k2/+iGbT7OXZqqU=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Abilities\Monk\Serenity.jpg" size="13128">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>2z8Ey3f85lG12sbLKEWUgbWMJCw=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Abilities\Monk\Seven-Sided_Strike.jpg" size="13513">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>wOVxS7MRR36QiRITo5Wnl6/mUCg=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Abilities\Monk\Sweeping_Wind.jpg" size="13228">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>EwLY1s9NNb6zUik+7+1cbAZpjQE=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Abilities\Monk\Tempest_Rush.jpg" size="13158">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>k4ZkNW3EJ5r7NVPTJKoSi10JmvE=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Abilities\Monk\Wave_of_Light.jpg" size="12999">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>IM6W80fcTp+O68w1P9qlkKwNqxU=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Abilities\Monk\Way_of_the_Hundred_Fists.jpg" size="13191">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>nYCU2UgxluMbVcl6Y6tBsQkDszg=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Abilities\Witch_Doctor\Acid_Cloud.jpg" size="12244">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>RrDc9H2BqrsN4rMjl2e2VOconIU=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Abilities\Witch_Doctor\Big_Bad_Voodoo.jpg" size="13365">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>U9KY3DoIX674yzG3KHncfi0mXNM=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Abilities\Witch_Doctor\Corpse_Spiders.jpg" size="12506">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>Uo/ARK+RZMJV3GebuASbk/57jhE=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Abilities\Witch_Doctor\Fetish_Army.jpg" size="19003">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>p0p9vi3MtSctcU0BdLKulh1+c1M=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Abilities\Witch_Doctor\Firebats.jpg" size="13016">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>BiMtQVZ4kBtT+m2dFgfUrD0uivw=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Abilities\Witch_Doctor\Firebomb.jpg" size="13161">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>yCCzh9dz0HCt13mbDXV8c9lRVNs=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Abilities\Witch_Doctor\Gargantuan.jpg" size="12494">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>3E+f0IpxQ/3kmEODV/X8O/2rY6s=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Abilities\Witch_Doctor\Grasp_of_the_Dead.jpg" size="13218">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>KjqY/56oUCZaHw3AOcxxzucJv9I=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Abilities\Witch_Doctor\Haunt.jpg" size="12924">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>6M4+uKhDAKYT8hmEn1ZjUFwdKcs=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Abilities\Witch_Doctor\Hex.jpg" size="18982">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>ERKp/xE7/7CYKznYKdo8+79erN4=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Abilities\Witch_Doctor\Horrify.jpg" size="18652">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>J3QCf7cQpQJ1Ei/+zZCdA6Q7VRg=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Abilities\Witch_Doctor\Locust_Swarm.jpg" size="12805">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>DbEPAg4VNCVy7tySq1iCCM2qm4U=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Abilities\Witch_Doctor\Mass_Confusion.jpg" size="13370">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>rkQifk4+gZw9DGPlqpYEHis3J3c=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Abilities\Witch_Doctor\Plague_of_Toads.jpg" size="12512">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>mynAA4qXe8AbobmiQnL8/nAhmdQ=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Abilities\Witch_Doctor\Poison_Dart.jpg" size="12709">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>rvaRUbx4JWWf5QzuDxyRPIaBgnw=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Abilities\Witch_Doctor\Sacrifice.jpg" size="19447">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>4XoCmxRM4xtFBV864oYU1ItFAiI=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Abilities\Witch_Doctor\Soul_Harvest.jpg" size="12578">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>ALaU04BTdes26jB2H2lunYqENcE=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Abilities\Witch_Doctor\Spirit_Barrage.jpg" size="13119">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>kPRROt9J3izatAvoRKXF0O+fMgM=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Abilities\Witch_Doctor\Spirit_Walk.jpg" size="12660">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>RVzYhRYadkWgdle9MWMl2dKyFmg=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Abilities\Witch_Doctor\Summon_Zombie_Dogs.jpg" size="13085">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>vYC4HtdKD85+V/Lm3c61GS/3DCA=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Abilities\Witch_Doctor\Wall_of_Zombies.jpg" size="19105">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>gVmIjcqU6v6wjdBjNMmTmLa0/YY=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Abilities\Witch_Doctor\Zombie_Charger.jpg" size="13014">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>Y7Ljb+WgoVtsZQ/Zh29jAxJ/Jkg=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Abilities\Wizard\Arcane_Orb.jpg" size="12614">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>DBaRjrU71I2uVw+2n0o/XWfNyBw=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Abilities\Wizard\Arcane_Torrent.jpg" size="12873">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>57P0TSzTotcs8ed6qC44x8n3vmU=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Abilities\Wizard\Archon.jpg" size="12851">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>HWhvRj+QXNvuxVXk9HhOYRVG8TQ=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Abilities\Wizard\Blizzard.jpg" size="13227">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>N9Q9ZoFR8MSsk5qrzeTK6lu2F9Q=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Abilities\Wizard\Diamond_Skin.jpg" size="19134">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>S12LUGCWWRuuxT/CIvUgKsy7vk4=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Abilities\Wizard\Disintegrate.jpg" size="19724">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>23fXrd8wVGbX1lumkhZtXKCeRfQ=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Abilities\Wizard\Electrocute.jpg" size="13131">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>n3OH5OUO9Br5km61a4iCU9VzfzQ=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Abilities\Wizard\Energy_Armor.jpg" size="13278">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>iFU+cKMX1PYedKxugafoI+M7mr4=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Abilities\Wizard\Energy_Twister.jpg" size="12561">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>DIjwtT2GyQvB3gs1CutClh9mBUY=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Abilities\Wizard\Explosive_Blast.jpg" size="12411">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>O3Il6NcqrbIf0iCbBSSuUCU+GCM=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Abilities\Wizard\Familiar.jpg" size="12385">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>tJNfXo3U9Vvdhz6WLUWQ9enR8tI=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Abilities\Wizard\Frost_Nova.jpg" size="13284">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>4vfshP5cPprxgXe0BfmXJa/4Gdk=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Abilities\Wizard\Hydra.jpg" size="12857">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>H3iGiZhSvqDqU+d/NqcU9T99N+I=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Abilities\Wizard\Ice_Armor.jpg" size="19634">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>3ET1obBy9mphipy79BE2zy1fm08=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Abilities\Wizard\Magic_Missile.jpg" size="12440">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>L/Td1x1zJm1NgIysNZhYUHHgwWY=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Abilities\Wizard\Magic_Weapon.jpg" size="18994">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>/BYF04dMM9pXl7TfzhXKUOh6R+A=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Abilities\Wizard\Meteor.jpg" size="13197">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>ajHP70F+ap9T5viiiyJ1wnN68pU=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Abilities\Wizard\Mirror_Image.jpg" size="12509">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>SjVrQ0AdnoVIhk8+HQlb/rqXNr4=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Abilities\Wizard\Ray_of_Frost.jpg" size="13085">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>qQmJj4SQV82aZD+z/pcQFT3U1Q4=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Abilities\Wizard\Shock_Pulse.jpg" size="19066">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>CR8cjbFLfHk+JByzC5/c+Qgzy38=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Abilities\Wizard\Slow_Time.jpg" size="19056">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>3W6VXbN0fw8ceAYuUxta/Qww3yo=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Abilities\Wizard\Spectral_Blade.jpg" size="12891">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>sa/oBWyGuA9A8CNTTJZrlvNS5Ks=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Abilities\Wizard\Storm_Armor.jpg" size="13923">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>mppWUsHeJUBRKc/c9qAhWyiRim8=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Abilities\Wizard\Teleport.jpg" size="12831">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>fOQxrL7w/kPGQyDeYQa2TGKkc8A=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Abilities\Wizard\Wave_of_Force.jpg" size="12993">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>7WvXq0IKWIjr8oVtIdPUbpnZEG8=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Blizzard.gif" size="3175">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>KNp/6l/o506ocOK1NBIvjF39tiU=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Classes\Barbarian_Female.png" size="39481">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>9Kh3KPVZpXO3hdxNkMAHjK/vr+s=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Classes\Barbarian_Male.png" size="46120">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>XdZL9bgKEJgIRHb4Rw9/i42Wmho=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Classes\Demon_Hunter_Female.png" size="33471">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>RGIp1S9JcDPmapy5t0PBX0uLE48=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Classes\Demon_Hunter_Male.png" size="37296">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>duXhThAVue4uYV/vAdhRu6PF0Qw=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Classes\Monk_Female.png" size="35302">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>eRvZpk4aSckGnQvWpvHLQqQXWMM=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Classes\Monk_Male.png" size="39099">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>FplCdjEGJMb+oBDJmoDk6vmctyM=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Classes\Witch_Doctor_Female.png" size="43838">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>+d0cwi1bQxSTafQXjF6tcWUi7oA=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Classes\Witch_Doctor_Male.png" size="37443">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>Ucpte5KMpMw+Z3DtYQ8KfqO6bp0=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Classes\Wizard_Female.png" size="27256">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>PudgYP9aBAg6fznrOiYtWLuAC6s=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Classes\Wizard_Male.png" size="32729">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>RwY7Q1qOU5Me9IEwzQaEVxS1YfA=</dsig:DigestValue>
+    </hash>
+  </file>
+  <compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">
+    <application>
+      <!-- A list of all Windows versions that this application is designed to work with. Windows will automatically select the most compatible environment.-->
+      <!-- If your application is designed to work with Windows 7, uncomment the following supportedOS node-->
+      <!--<supportedOS Id="{35138b9a-5d96-4fbd-8e2d-a2440225f93a}"/>-->
+    </application>
+  </compatibility>
+<publisherIdentity name="CN=Robinde67" issuerKeyHash="1d394e8e3ab5e9f1fb9921b3431543e288810066" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>AP5LnJxsuuzBrp9Ow2isjtRvR7M=</DigestValue></Reference></SignedInfo><SignatureValue>MyUbkcU19NAubvhOcT5NbrDUxoCW3pj/umU0sAp5WCmIOCSBB3yWflVWUCdd7nba3FZQtpUlxX5MDSgfFi9AuFUYwnNe19MGq1a3XL2kwclnWMcv1mWmpmc1hDO0QY/brposPYlrVXnabtlyATo6PrxSaUdELJYf/+a+0bshago=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>uhp6lAgh20arUDTOP1pFcWBTGQkdkErqH3lfEKBMt5/IXLcWN13Cbv0k8KnaE9RxWmOW4aZfsEZEpZRv4WgzMoFE1tKQxfKypWz+VrlOOd9+PDc5tdrhZ1ggAAZTnEDiT5ZwjhZSEzK+ugnZB1WkGDh7+zsrpepQni9EWu2vZaE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="b3476fd48eac68c34e9faec1ecba6c9c9c4bfe00" Description="" Url=""><as:assemblyIdentity version="1.0.3.15" name="D3 Calculator.exe" publicKeyToken="b0b994cf02b66e96" language="en" processorArchitecture="x86" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=Robinde67</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>MHPqzEeBNo/XX6Il/BtnOMecwRw=</DigestValue></Reference></SignedInfo><SignatureValue>pEC0S2DxDkOlkuRcj9nM1GD0oTbfPUa35NZX/figqYkwapE7fWN7juyL756VPnUIXn8k8clgiXoXQDshirurfe4PPh6rWOabHSZepyPw4Gs7/lI/5pzFAnFjUJra6ORAZftdkdG9sblG09KsM89wOB2ekZiLEHcAX2UOBg39M7c=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>uhp6lAgh20arUDTOP1pFcWBTGQkdkErqH3lfEKBMt5/IXLcWN13Cbv0k8KnaE9RxWmOW4aZfsEZEpZRv4WgzMoFE1tKQxfKypWz+VrlOOd9+PDc5tdrhZ1ggAAZTnEDiT5ZwjhZSEzK+ugnZB1WkGDh7+zsrpepQni9EWu2vZaE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIBsTCCAV+gAwIBAgIQ2yHAhoxYFo1H99TQNyCOvTAJBgUrDgMCHQUAMBYxFDASBgNVBAMTC1Jvb3QgQWdlbmN5MB4XDTEyMDYyMDE3MzI1NloXDTEzMDYxOTIyMDAwMFowFDESMBAGA1UEAxMJUm9iaW5kZTY3MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC6GnqUCCHbRqtQNM4/WkVxYFMZCR2QSuofeV8QoEy3n8hctxY3XcJu/STwqdoT1HFaY5bhpl+wRkSllG/haDMygUTW0pDF8rKlbP5WuU453348Nzm12uFnWCAABlOcQOJPlnCOFlITMr66CdkHVaQYOHv7Oyul6lCeL0Ra7a9loQIDAQABo0swSTBHBgNVHQEEQDA+gBAS5AktBh0dTwCNYSHcFmRjoRgwFjEUMBIGA1UEAxMLUm9vdCBBZ2VuY3mCEAY3bACqAGSKEc+41KpcNfQwCQYFKw4DAh0FAANBAIDHcbf97zjI7FmlL470a8uDyS0zg5eJwJQQCkKOHe/aqacCkTaaowu7xfpBqaAtAMPbToAybasY6Eg8CpkrTvY=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

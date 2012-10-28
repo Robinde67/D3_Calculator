@@ -1,0 +1,10 @@
+C:\Users\SN51514\Documents\Visual Studio 2010\Projects\Equipment\Equipment\bin\Debug\Equipment.dll
+C:\Users\SN51514\Documents\Visual Studio 2010\Projects\Equipment\Equipment\bin\Debug\Equipment.pdb
+C:\Users\SN51514\Documents\Visual Studio 2010\Projects\Equipment\Equipment\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\SN51514\Documents\Visual Studio 2010\Projects\Equipment\Equipment\obj\Debug\Equipment.dll
+C:\Users\SN51514\Documents\Visual Studio 2010\Projects\Equipment\Equipment\obj\Debug\Equipment.pdb
+C:\Users\SN51514\git\D3_Calculator\Equipment\Equipment\bin\Debug\Equipment.dll
+C:\Users\SN51514\git\D3_Calculator\Equipment\Equipment\bin\Debug\Equipment.pdb
+C:\Users\SN51514\git\D3_Calculator\Equipment\Equipment\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\SN51514\git\D3_Calculator\Equipment\Equipment\obj\Debug\Equipment.dll
+C:\Users\SN51514\git\D3_Calculator\Equipment\Equipment\obj\Debug\Equipment.pdb

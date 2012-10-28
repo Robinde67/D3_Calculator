@@ -1,0 +1,25 @@
+C:\Users\SN51514\Documents\Visual Studio 2010\Projects\D3 Calculator\D3 Calculator\obj\x86\Release\D3 Calculator.exe
+C:\Users\SN51514\Documents\Visual Studio 2010\Projects\D3 Calculator\D3 Calculator\obj\x86\Release\D3 Calculator.pdb
+C:\Users\SN51514\Documents\Visual Studio 2010\Projects\D3 Calculator\D3 Calculator\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\SN51514\Documents\Visual Studio 2010\Projects\D3 Calculator\D3 Calculator\obj\x86\Release\D3_Calculator.AbilitiesForm.resources
+C:\Users\SN51514\Documents\Visual Studio 2010\Projects\D3 Calculator\D3 Calculator\obj\x86\Release\D3_Calculator.Legal.resources
+C:\Users\SN51514\Documents\Visual Studio 2010\Projects\D3 Calculator\D3 Calculator\obj\x86\Release\D3_Calculator.MainForm.resources
+C:\Users\SN51514\Documents\Visual Studio 2010\Projects\D3 Calculator\D3 Calculator\obj\x86\Release\D3_Calculator.EquipmentForm.resources
+C:\Users\SN51514\Documents\Visual Studio 2010\Projects\D3 Calculator\D3 Calculator\obj\x86\Release\D3_Calculator.Properties.Resources.resources
+C:\Users\SN51514\Documents\Visual Studio 2010\Projects\D3 Calculator\D3 Calculator\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\SN51514\Documents\Visual Studio 2010\Projects\D3 Calculator\D3 Calculator\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\SN51514\Documents\Visual Studio 2010\Projects\D3 Calculator\D3 Calculator\bin\Release\D3 Calculator.exe.manifest
+C:\Users\SN51514\Documents\Visual Studio 2010\Projects\D3 Calculator\D3 Calculator\bin\Release\D3 Calculator.application
+C:\Users\SN51514\Documents\Visual Studio 2010\Projects\D3 Calculator\D3 Calculator\bin\Release\D3 Calculator.exe
+C:\Users\SN51514\Documents\Visual Studio 2010\Projects\D3 Calculator\D3 Calculator\bin\Release\D3 Calculator.pdb
+C:\Users\SN51514\Documents\Visual Studio 2010\Projects\D3 Calculator\D3 Calculator\bin\Release\Damage.dll
+C:\Users\SN51514\Documents\Visual Studio 2010\Projects\D3 Calculator\D3 Calculator\bin\Release\DamageMitigation.dll
+C:\Users\SN51514\Documents\Visual Studio 2010\Projects\D3 Calculator\D3 Calculator\bin\Release\Equipment.dll
+C:\Users\SN51514\Documents\Visual Studio 2010\Projects\D3 Calculator\D3 Calculator\bin\Release\Stats.dll
+C:\Users\SN51514\Documents\Visual Studio 2010\Projects\D3 Calculator\D3 Calculator\bin\Release\DamageMitigation.pdb
+C:\Users\SN51514\Documents\Visual Studio 2010\Projects\D3 Calculator\D3 Calculator\bin\Release\Damage.pdb
+C:\Users\SN51514\Documents\Visual Studio 2010\Projects\D3 Calculator\D3 Calculator\bin\Release\Equipment.pdb
+C:\Users\SN51514\Documents\Visual Studio 2010\Projects\D3 Calculator\D3 Calculator\bin\Release\Stats.pdb
+C:\Users\SN51514\Documents\Visual Studio 2010\Projects\D3 Calculator\D3 Calculator\obj\x86\Release\D3 Calculator.TrustInfo.xml
+C:\Users\SN51514\Documents\Visual Studio 2010\Projects\D3 Calculator\D3 Calculator\obj\x86\Release\D3 Calculator.exe.manifest
+C:\Users\SN51514\Documents\Visual Studio 2010\Projects\D3 Calculator\D3 Calculator\obj\x86\Release\D3 Calculator.application

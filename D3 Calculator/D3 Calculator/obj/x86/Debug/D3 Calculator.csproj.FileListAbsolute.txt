@@ -1,0 +1,77 @@
+C:\Users\SN51514\documents\visual studio 2010\Projects\D3 Kalkylator\D3 Kalkylator\bin\Debug\Damage.dll
+C:\Users\SN51514\documents\visual studio 2010\Projects\D3 Kalkylator\D3 Kalkylator\bin\Debug\DamageMitigation.dll
+C:\Users\SN51514\documents\visual studio 2010\Projects\D3 Kalkylator\D3 Kalkylator\bin\Debug\Equipment.dll
+C:\Users\SN51514\documents\visual studio 2010\Projects\D3 Kalkylator\D3 Kalkylator\bin\Debug\Stats.dll
+C:\Users\SN51514\documents\visual studio 2010\Projects\D3 Kalkylator\D3 Kalkylator\bin\Debug\DamageMitigation.pdb
+C:\Users\SN51514\documents\visual studio 2010\Projects\D3 Kalkylator\D3 Kalkylator\bin\Debug\Damage.pdb
+C:\Users\SN51514\documents\visual studio 2010\Projects\D3 Kalkylator\D3 Kalkylator\bin\Debug\Equipment.pdb
+C:\Users\SN51514\documents\visual studio 2010\Projects\D3 Kalkylator\D3 Kalkylator\bin\Debug\Stats.pdb
+C:\Users\SN51514\documents\visual studio 2010\Projects\D3 Kalkylator\D3 Kalkylator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\SN51514\documents\visual studio 2010\Projects\D3 Kalkylator\D3 Kalkylator\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\SN51514\documents\visual studio 2010\Projects\D3 Kalkylator\D3 Kalkylator\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\SN51514\documents\visual studio 2010\Projects\D3 Kalkylator\D3 Kalkylator\obj\x86\Debug\D3_Calculator.AbilitiesForm.resources
+C:\Users\SN51514\documents\visual studio 2010\Projects\D3 Kalkylator\D3 Kalkylator\obj\x86\Debug\D3_Calculator.Legal.resources
+C:\Users\SN51514\documents\visual studio 2010\Projects\D3 Kalkylator\D3 Kalkylator\obj\x86\Debug\D3_Calculator.MainForm.resources
+C:\Users\SN51514\documents\visual studio 2010\Projects\D3 Kalkylator\D3 Kalkylator\obj\x86\Debug\D3_Calculator.EquipmentForm.resources
+C:\Users\SN51514\documents\visual studio 2010\Projects\D3 Kalkylator\D3 Kalkylator\obj\x86\Debug\D3_Calculator.Properties.Resources.resources
+C:\Users\SN51514\documents\visual studio 2010\Projects\D3 Kalkylator\D3 Kalkylator\bin\Debug\D3 Calculator.exe.manifest
+C:\Users\SN51514\documents\visual studio 2010\Projects\D3 Kalkylator\D3 Kalkylator\bin\Debug\D3 Calculator.application
+C:\Users\SN51514\documents\visual studio 2010\Projects\D3 Kalkylator\D3 Kalkylator\bin\Debug\D3 Calculator.exe
+C:\Users\SN51514\documents\visual studio 2010\Projects\D3 Kalkylator\D3 Kalkylator\bin\Debug\D3 Calculator.pdb
+C:\Users\SN51514\documents\visual studio 2010\Projects\D3 Kalkylator\D3 Kalkylator\obj\x86\Debug\D3 Calculator.TrustInfo.xml
+C:\Users\SN51514\documents\visual studio 2010\Projects\D3 Kalkylator\D3 Kalkylator\obj\x86\Debug\D3 Calculator.exe.manifest
+C:\Users\SN51514\documents\visual studio 2010\Projects\D3 Kalkylator\D3 Kalkylator\obj\x86\Debug\D3 Calculator.application
+C:\Users\SN51514\documents\visual studio 2010\Projects\D3 Kalkylator\D3 Kalkylator\obj\x86\Debug\D3 Calculator.exe
+C:\Users\SN51514\documents\visual studio 2010\Projects\D3 Kalkylator\D3 Kalkylator\obj\x86\Debug\D3 Calculator.pdb
+C:\Users\SN51514\Documents\Visual Studio 2010\Projects\D3 Calculator\D3 Calculator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\SN51514\Documents\Visual Studio 2010\Projects\D3 Calculator\D3 Calculator\obj\x86\Debug\D3_Calculator.AbilitiesForm.resources
+C:\Users\SN51514\Documents\Visual Studio 2010\Projects\D3 Calculator\D3 Calculator\obj\x86\Debug\D3_Calculator.Legal.resources
+C:\Users\SN51514\Documents\Visual Studio 2010\Projects\D3 Calculator\D3 Calculator\obj\x86\Debug\D3_Calculator.MainForm.resources
+C:\Users\SN51514\Documents\Visual Studio 2010\Projects\D3 Calculator\D3 Calculator\obj\x86\Debug\D3_Calculator.EquipmentForm.resources
+C:\Users\SN51514\Documents\Visual Studio 2010\Projects\D3 Calculator\D3 Calculator\obj\x86\Debug\D3_Calculator.Properties.Resources.resources
+C:\Users\SN51514\Documents\Visual Studio 2010\Projects\D3 Calculator\D3 Calculator\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\SN51514\Documents\Visual Studio 2010\Projects\D3 Calculator\D3 Calculator\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\SN51514\Documents\Visual Studio 2010\Projects\D3 Calculator\D3 Calculator\bin\Debug\D3 Calculator.exe.manifest
+C:\Users\SN51514\Documents\Visual Studio 2010\Projects\D3 Calculator\D3 Calculator\bin\Debug\D3 Calculator.application
+C:\Users\SN51514\Documents\Visual Studio 2010\Projects\D3 Calculator\D3 Calculator\bin\Debug\D3 Calculator.exe
+C:\Users\SN51514\Documents\Visual Studio 2010\Projects\D3 Calculator\D3 Calculator\bin\Debug\D3 Calculator.pdb
+C:\Users\SN51514\Documents\Visual Studio 2010\Projects\D3 Calculator\D3 Calculator\bin\Debug\Damage.dll
+C:\Users\SN51514\Documents\Visual Studio 2010\Projects\D3 Calculator\D3 Calculator\bin\Debug\DamageMitigation.dll
+C:\Users\SN51514\Documents\Visual Studio 2010\Projects\D3 Calculator\D3 Calculator\bin\Debug\Equipment.dll
+C:\Users\SN51514\Documents\Visual Studio 2010\Projects\D3 Calculator\D3 Calculator\bin\Debug\DamageMitigation.pdb
+C:\Users\SN51514\Documents\Visual Studio 2010\Projects\D3 Calculator\D3 Calculator\bin\Debug\Damage.pdb
+C:\Users\SN51514\Documents\Visual Studio 2010\Projects\D3 Calculator\D3 Calculator\bin\Debug\Equipment.pdb
+C:\Users\SN51514\Documents\Visual Studio 2010\Projects\D3 Calculator\D3 Calculator\obj\x86\Debug\D3 Calculator.TrustInfo.xml
+C:\Users\SN51514\Documents\Visual Studio 2010\Projects\D3 Calculator\D3 Calculator\obj\x86\Debug\D3 Calculator.exe.manifest
+C:\Users\SN51514\Documents\Visual Studio 2010\Projects\D3 Calculator\D3 Calculator\obj\x86\Debug\D3 Calculator.application
+C:\Users\SN51514\Documents\Visual Studio 2010\Projects\D3 Calculator\D3 Calculator\obj\x86\Debug\D3 Calculator.exe
+C:\Users\SN51514\Documents\Visual Studio 2010\Projects\D3 Calculator\D3 Calculator\obj\x86\Debug\D3 Calculator.pdb
+C:\Users\SN51514\Documents\Visual Studio 2010\Projects\D3 Calculator\D3 Calculator\bin\Debug\Stats.dll
+C:\Users\SN51514\Documents\Visual Studio 2010\Projects\D3 Calculator\D3 Calculator\bin\Debug\Stats.pdb
+C:\Users\SN51514\Documents\Visual Studio 2010\Projects\D3 Calculator\D3 Calculator\obj\x86\Debug\D3_Calculator.ClearForm.resources
+C:\Users\SN51514\git\D3_Calculator\D3 Calculator\D3 Calculator\obj\x86\Debug\D3 Calculator.exe
+C:\Users\SN51514\git\D3_Calculator\D3 Calculator\D3 Calculator\obj\x86\Debug\D3 Calculator.pdb
+C:\Users\SN51514\git\D3_Calculator\D3 Calculator\D3 Calculator\bin\Debug\D3 Calculator.exe.manifest
+C:\Users\SN51514\git\D3_Calculator\D3 Calculator\D3 Calculator\bin\Debug\D3 Calculator.application
+C:\Users\SN51514\git\D3_Calculator\D3 Calculator\D3 Calculator\bin\Debug\D3 Calculator.exe
+C:\Users\SN51514\git\D3_Calculator\D3 Calculator\D3 Calculator\bin\Debug\D3 Calculator.pdb
+C:\Users\SN51514\git\D3_Calculator\D3 Calculator\D3 Calculator\bin\Debug\Damage.dll
+C:\Users\SN51514\git\D3_Calculator\D3 Calculator\D3 Calculator\bin\Debug\DamageMitigation.dll
+C:\Users\SN51514\git\D3_Calculator\D3 Calculator\D3 Calculator\bin\Debug\Equipment.dll
+C:\Users\SN51514\git\D3_Calculator\D3 Calculator\D3 Calculator\bin\Debug\Stats.dll
+C:\Users\SN51514\git\D3_Calculator\D3 Calculator\D3 Calculator\bin\Debug\DamageMitigation.pdb
+C:\Users\SN51514\git\D3_Calculator\D3 Calculator\D3 Calculator\bin\Debug\Damage.pdb
+C:\Users\SN51514\git\D3_Calculator\D3 Calculator\D3 Calculator\bin\Debug\Equipment.pdb
+C:\Users\SN51514\git\D3_Calculator\D3 Calculator\D3 Calculator\bin\Debug\Stats.pdb
+C:\Users\SN51514\git\D3_Calculator\D3 Calculator\D3 Calculator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\SN51514\git\D3_Calculator\D3 Calculator\D3 Calculator\obj\x86\Debug\D3_Calculator.AbilitiesForm.resources
+C:\Users\SN51514\git\D3_Calculator\D3 Calculator\D3 Calculator\obj\x86\Debug\D3_Calculator.ClearForm.resources
+C:\Users\SN51514\git\D3_Calculator\D3 Calculator\D3 Calculator\obj\x86\Debug\D3_Calculator.Legal.resources
+C:\Users\SN51514\git\D3_Calculator\D3 Calculator\D3 Calculator\obj\x86\Debug\D3_Calculator.MainForm.resources
+C:\Users\SN51514\git\D3_Calculator\D3 Calculator\D3 Calculator\obj\x86\Debug\D3_Calculator.EquipmentForm.resources
+C:\Users\SN51514\git\D3_Calculator\D3 Calculator\D3 Calculator\obj\x86\Debug\D3_Calculator.Properties.Resources.resources
+C:\Users\SN51514\git\D3_Calculator\D3 Calculator\D3 Calculator\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\SN51514\git\D3_Calculator\D3 Calculator\D3 Calculator\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\SN51514\git\D3_Calculator\D3 Calculator\D3 Calculator\obj\x86\Debug\D3 Calculator.TrustInfo.xml
+C:\Users\SN51514\git\D3_Calculator\D3 Calculator\D3 Calculator\obj\x86\Debug\D3 Calculator.exe.manifest
+C:\Users\SN51514\git\D3_Calculator\D3 Calculator\D3 Calculator\obj\x86\Debug\D3 Calculator.application
